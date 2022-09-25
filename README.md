@@ -9,6 +9,6 @@ Implement a segmentation example use pytorch
   
  ![image](./img/images.png)
  
-   - `college`
+   - `mask` : 0 for black , 1 for white
   
  ![mask](./img/mask.png)
