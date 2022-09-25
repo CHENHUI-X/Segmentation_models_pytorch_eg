@@ -7,8 +7,8 @@ Implement a segmentation example use pytorch
  ![college](./img/college.jpg)
   - `image`
   
- ![image](./img/image.jpg)
+ ![image](./img/images.png)
  
    - `college`
   
- ![mask](./img/mask.jpg)
+ ![mask](./img/mask.png)
