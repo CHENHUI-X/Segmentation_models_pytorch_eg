@@ -5,4 +5,4 @@ Implement a segmentation example use pytorch
   - `college`
   
   
-  ![college]('https://github.com/CHENHUI-X/Segmentation_models_pytorch_eg/blob/main/img/college.jpg?raw=true')
+  ![college]('https://github.com/CHENHUI-X/Segmentation_models_pytorch_eg/blob/main/img/college.jpg')
